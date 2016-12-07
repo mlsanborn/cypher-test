@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=cypher()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ cypher\r\n
+comment1.params=msg
+comment1.target=cypher(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ cypher\r\n\ @param\ String\ msg\r\n
+comment2.params=
+comment2.target=java.lang.String\ decode()
+comment2.text=\r\n\ decodes\ the\ given\ message\r\n\ @return\ String\ newsent\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ \ Returns\ a\ one-line\ description\ of\ the\ account\ as\ a\ string.\r\n
+numComments=4
